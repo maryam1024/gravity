@@ -9,14 +9,6 @@
 /* ==========================================================================
    Base styles: opinionated defaults
    ========================================================================== */
-body
-{
-    background-color: #565656;
-    background-image: url("../img/background.png");
-    margin: 5px;
-    text-align: center;
-}
-
 html,
 button,
 input,
@@ -308,4 +300,14 @@ textarea {
     h3 {
         page-break-after: avoid;
     }
+}
+
+
+
+
+body
+{
+    background-color: #565656;
+    background-image: url("../img/background.png");
+    text-align: center;
 }
