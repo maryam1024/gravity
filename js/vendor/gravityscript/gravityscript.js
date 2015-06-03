@@ -1868,7 +1868,7 @@ setTimeout(function(){
 
 				if ( stage[2] != window.innerWidth ) {
 
-					stage[2] = window.innerWidth;
+			    		stage[2] = window.innerWidth;
 					changed = true;
 				}
 
